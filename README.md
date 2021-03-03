@@ -8,7 +8,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 Description:
 
-  I tried to implement post operation and get operation in shortes possible code. With the use of jpdb-common.js library funcions.
+  I tried to implement post operation and get operation in shortest possible code. With the use of jpdb-common.js library funcions.
   All the code in main.js is commented so any one can understand the inner working of my simplistic project.
 
 Benefits of using JsonPowerDB
